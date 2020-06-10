@@ -11,3 +11,5 @@ Eigenvector alignment uses the dominant system eigenvectors to assess structural
 [1] Clark, R.A., Nikolova, N., McGeown, W.J. and Macdonald, M., 2020. Eigenvector alignment: assessing functional network changes in amnestic mild cognitive impairment and Alzheimer's disease. bioRxiv.
 
 [2] Mascali D, DiNuzzo M, Gili T, Moraschi M, Fratini M, Maraviglia B, et al., 2015. Resting-state fMRI in dementia patients.  Harvard Dataverse.  Availablefrom: http://doi.org/10.7910/DVN/29352
+
+[![DOI](https://zenodo.org/badge/271226567.svg)](https://zenodo.org/badge/latestdoi/271226567)
