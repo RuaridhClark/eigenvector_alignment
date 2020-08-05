@@ -12,7 +12,7 @@ function [t] = CST(Adj,plot)
 
 c=[]; G=[]; C=[]; C_B=[];
 
-t_all=0:0.1:1;
+t_all=0:0.01:1;
 j=0;
 for i = t_all        % Simple equation solver that checks between 0 an 1
     j=j+1;
