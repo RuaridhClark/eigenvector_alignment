@@ -1,4 +1,4 @@
-# Eigenvector_Alignment
+# Eigenvector Alignment
 
 Eigenvector alignment uses the dominant system eigenvectors to assess structural changes in a network. This approach is applied to a dataset, included here as subjects.mat, of 29 subjects from three groups: Alzheimer's Disease, amnestic Mild Cognitive Impairment and Health Control. A two-sample t test is carried out to determine significant structural changes as described in the article "Eigenvector Alignment: assessing functional network changes in amnestic mild cognitive impairment and Alzheimer's disease" [1].
 
